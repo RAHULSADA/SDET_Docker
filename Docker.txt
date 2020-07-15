@@ -20,3 +20,12 @@ docker run -d -p 4444:4444 -v /dev/shm:/dev/shm selenium/standalone-chrome:lates
 //stop image on container
 docker stop <container_id>
 
+
+//Run selenium grid using docker
+//Create docker-compose.yaml file (instructions are in GitHub)
+//Go to folder with yaml file  and run below. This will create hub-node setup with hub and nodes defined in yaml file >> http://localhost:4444/grid/console
+C:\Our Documents\rahul - docs\Code_Repositories\SDET_Docker>docker-compose -f docker-compose.yaml up
+
+//Create total 5 chrome nodes
+C:\Our Documents\rahul - docs\Code_Repositories\SDET_Docker>docker-compose scale  chrome=5
+
