@@ -29,3 +29,6 @@ C:\Our Documents\rahul - docs\Code_Repositories\SDET_Docker>docker-compose -f do
 //Create total 5 chrome nodes
 C:\Our Documents\rahul - docs\Code_Repositories\SDET_Docker>docker-compose scale  chrome=5
 
+//Stop all containers
+C:\Our Documents\rahul - docs\Code_Repositories\SDET_Docker>docker-compose -f docker-compose.yaml down
+
