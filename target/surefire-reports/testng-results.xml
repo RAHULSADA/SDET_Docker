@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="103311" started-at="2020-07-23T16:46:43 EDT" finished-at="2020-07-23T16:48:26 EDT">
+    <groups>
+    </groups>
+    <test name="DockerTest" duration-ms="103311" started-at="2020-07-23T16:46:43 EDT" finished-at="2020-07-23T16:48:26 EDT">
+      <class name="com.rahul.ChromeNodesTest3">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.rahul.ChromeNodesTest3@78c03f1f]" name="test3" duration-ms="30554" started-at="2020-07-23T16:47:28 EDT" finished-at="2020-07-23T16:47:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.rahul.ChromeNodesTest3 -->
+      <class name="com.rahul.ChromeNodesTest2">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.rahul.ChromeNodesTest2@5ce81285]" name="test2" duration-ms="25940" started-at="2020-07-23T16:47:28 EDT" finished-at="2020-07-23T16:47:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.rahul.ChromeNodesTest2 -->
+      <class name="com.rahul.ChromeNodesTest1">
+        <test-method status="PASS" signature="startDocker()[pri:0, instance:com.rahul.ChromeNodesTest1@52a86356]" name="startDocker" is-config="true" duration-ms="45129" started-at="2020-07-23T16:46:43 EDT" finished-at="2020-07-23T16:47:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDocker -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.rahul.ChromeNodesTest1@52a86356]" name="test1" duration-ms="28005" started-at="2020-07-23T16:47:28 EDT" finished-at="2020-07-23T16:47:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="stopDocker()[pri:0, instance:com.rahul.ChromeNodesTest1@52a86356]" name="stopDocker" is-config="true" duration-ms="27382" started-at="2020-07-23T16:47:59 EDT" finished-at="2020-07-23T16:48:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDocker -->
+      </class> <!-- com.rahul.ChromeNodesTest1 -->
+    </test> <!-- DockerTest -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

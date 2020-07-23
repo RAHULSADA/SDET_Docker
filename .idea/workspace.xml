@@ -3,10 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="18fb1e58-36c8-4a4b-9988-e069d9d64365" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Docker.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/rahul/FirefoxTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/rahul/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rahul/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/rahul/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeNodesTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeNodesTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeNodesTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeNodesTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeNodesTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeNodesTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeStandAloneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/rahul/ChromeStandAloneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/rahul/FirefoxStandAloneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/rahul/FirefoxStandAloneTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,68 +25,58 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
-          <entry key="xml" value="1" />
+          <entry key="bat" value="1" />
+          <entry key="java" value="14" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
-          <entry key="XML" value="1" />
+          <entry key="JAVA" value="14" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="bat" value="19" />
           <entry key="dummy" value="27" />
-          <entry key="java" value="404" />
-          <entry key="xml" value="25" />
+          <entry key="java" value="1941" />
+          <entry key="xml" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="404" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="XML" value="25" />
+          <entry key="JAVA" value="1941" />
+          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="XML" value="76" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="112">
+              <caret line="51" column="56" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeStandAloneTest.java">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/FirefoxStandAloneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -90,8 +84,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="176">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/Utilities/Utilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,28 +103,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest2.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/DockerOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="208">
+              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,6 +123,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>The node is registered to the hub and ready to use</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -145,11 +138,16 @@
         <option value="$PROJECT_DIR$/src/test/java/com/rahul/FirefoxTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/rahul/FirefoxStandAloneTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest3.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest2.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/dockerstart.bat" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rahul/DockerStart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rahul/Utilities/Constants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rahul/Utilities/Utilities.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest1.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rahul/DockerOperations.java" />
       </list>
     </option>
   </component>
@@ -164,11 +162,16 @@
     <option name="width" value="1940" />
     <option name="height" value="975" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,18 +208,25 @@
             <path>
               <item name="SDET_Docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDET_Docker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rahul" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDET_Docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDET_Docker" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595334392148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595537216856" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -239,19 +249,6 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml">
-    <configuration name="ChromeStandAloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rahul.ChromeStandAloneTest" />
-      <module name="SDET_Docker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rahul.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FirefoxStandAloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rahul.FirefoxStandAloneTest" />
       <module name="SDET_Docker" />
@@ -275,16 +272,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DockerOperations" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SDET_Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rahul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rahul" />
+      <option name="MAIN_CLASS_NAME" value="com.rahul.DockerOperations" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DockerStart" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SDET_Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rahul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rahul" />
+      <option name="MAIN_CLASS_NAME" value="com.rahul.DockerStart" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utilities" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SDET_Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rahul.Utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rahul.Utilities" />
+      <option name="MAIN_CLASS_NAME" value="com.rahul.Utilities.Utilities" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ChromeStandAloneTest" />
       <item itemvalue="Application.FirefoxStandAloneTest" />
       <item itemvalue="TestNG.C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" />
+      <item itemvalue="TestNG.DockerStart" />
+      <item itemvalue="TestNG.DockerOperations" />
+      <item itemvalue="TestNG.Utilities" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" />
+        <item itemvalue="TestNG.Utilities" />
+        <item itemvalue="TestNG.DockerOperations" />
+        <item itemvalue="TestNG.DockerStart" />
         <item itemvalue="Application.FirefoxStandAloneTest" />
-        <item itemvalue="Application.ChromeStandAloneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -302,34 +351,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 13h 41m 35s.xml">
+    <history-entry file="DockerOperations - 2020.07.22 at 16h 10m 56s.xml">
+      <configuration name="DockerOperations" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Utilities - 2020.07.22 at 16h 58m 11s.xml">
+      <configuration name="Utilities" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Utilities - 2020.07.22 at 16h 59m 01s.xml">
+      <configuration name="Utilities" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Utilities - 2020.07.22 at 17h 07m 42s.xml">
+      <configuration name="Utilities" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.22 at 17h 20m 05s.xml">
       <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 13h 45m 53s.xml">
+    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.22 at 17h 22m 08s.xml">
       <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 13h 48m 26s.xml">
+    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.22 at 17h 23m 48s.xml">
       <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 13h 49m 43s.xml">
+    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.22 at 17h 29m 08s.xml">
       <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 13h 58m 35s.xml">
+    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.22 at 17h 32m 56s.xml">
       <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 14h 02m 32s.xml">
-      <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 14h 05m 29s.xml">
-      <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.15 at 14h 35m 42s.xml">
-      <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.16 at 09h 12m 10s.xml">
-      <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.16 at 09h 42m 19s.xml">
+    <history-entry file="C__Our_Documents_rahul_-_docs_Code_Repositories_SDET_Docker_testng_xml - 2020.07.22 at 17h 35m 16s.xml">
       <configuration name="C:/Our Documents/rahul - docs/Code_Repositories/SDET_Docker/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -337,7 +386,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -345,8 +394,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32756132" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47763348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,6 +413,34 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47763348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.46031746" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32756132" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -398,33 +475,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rahul/App.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeStandAloneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/AppTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/FirefoxStandAloneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="144">
           <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerstart.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="57" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -435,6 +500,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/Utilities/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -442,10 +514,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeStandAloneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -454,8 +526,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="96">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/Utilities/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/ChromeNodesTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rahul/DockerOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerlogs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="51" column="56" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="56" />
         </state>
       </provider>
     </entry>
